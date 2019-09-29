@@ -1,0 +1,29 @@
+/*
+Theme Name: Tivy Designs Theme v1
+Theme URI: http://www.tivydesigns.com
+Version: 1.0
+Description: Feminine personal site theme
+Author: Tivinia Tonga
+Author URI: https://www.tivydesigns.com
+template: bb-theme
+*/
+
+/* Add your custom styles here... */ 
+
+.fl-page-header-logo img{
+	max-height: 50px;
+}
+
+.fl-page-header {
+  -webkit-box-shadow: 2px 2px 10px 0px rgba(0, 0, 0, 0.4);  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    2px 2px 10px 0px rgba(0, 0, 0, 0.4);  /* Firefox 3.5 - 3.6 */
+  box-shadow:         2px 2px 10px 0px rgba(0, 0, 0, 0.4);  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+.fl-page-nav-right .fl-page-nav-wrap .navbar-nav li.current-menu-item>a {
+	border-bottom: 4px solid #f9a79b;
+}
+
+.fl-page-footer-text {
+    font-family: 'Montserrat';
+}
